@@ -1,4 +1,4 @@
-# Go Shop
+# Go Shop Ecommerce
 
 An example of gin contains many useful features for e-commerce websites
 
